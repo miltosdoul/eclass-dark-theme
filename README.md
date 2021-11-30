@@ -1,2 +1,3 @@
 # eclass-dark-theme
-Dark theme for eclass course management system
+
+A dark theme for eClass course management system
