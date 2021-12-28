@@ -4,7 +4,9 @@
 </h1>
 
 <h4 align="center">A dark theme for eClass course management system.</h4>
-#
+
+![screenshot](https://raw.githubusercontent.com/miltosdoul/eclass-dark-theme/main/img/eclass-dark.png)
+
 ## How To Use
 
 - Download a custom CSS adder for your browser (like <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Stylus</a>).
